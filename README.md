@@ -1,4 +1,3 @@
 # CaraCollections
 
-[https://caracollections.netlify.app/
-]caracollections
+[caracollections](https://caracollections.netlify.app/)
