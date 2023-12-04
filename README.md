@@ -16,7 +16,8 @@ Welcome to CaraCollections, your go-to destination for stylish and unique fashio
 
 ## Demo
 
-![CaraCollections](link-to-demo-gif-or-screenshot)
+![CaraCollections](img/screenshot/1.png)
+![CaraCollections](img/screenshot/2.png)
 
 [Live Demo](https://caracollections.netlify.app/)
 
@@ -64,12 +65,8 @@ Welcome to CaraCollections, your go-to destination for stylish and unique fashio
 /CaraCollections
   ├── index.html
   ├── (...).html
-  ├── styles/
-  │   ├── main.css
-  │   └── ...
-  ├── scripts/
-  │   ├── main.js
-  │   └── ...
+  ├── style.css
+  ├── script.js
   ├── images/
   │   ├── product1.jpg
   │   └── ...
