@@ -1,4 +1,3 @@
-[caracollections](https://caracollections.netlify.app/)
 # CaraCollections
 
 Welcome to CaraCollections, your go-to destination for stylish and unique fashion finds! 🛍️ Explore a curated collection of the latest trends and must-have items. This e-commerce store is built with JavaScript, HTML, CSS, and enhanced with Font Awesome icons for a sleek and modern shopping experience.
@@ -28,7 +27,6 @@ Welcome to CaraCollections, your go-to destination for stylish and unique fashio
 - **Product Showcase**: Highlight featured products with detailed descriptions and high-quality images.
 - **Shopping Cart Functionality**: Add and manage items in the cart for easy checkout.
 - **Font Awesome Icons**: Enhance the visual elements with a library of scalable vector icons.
-- **Search Functionality**: Quickly find your desired items with the search feature.
 
 ## Technologies
 
